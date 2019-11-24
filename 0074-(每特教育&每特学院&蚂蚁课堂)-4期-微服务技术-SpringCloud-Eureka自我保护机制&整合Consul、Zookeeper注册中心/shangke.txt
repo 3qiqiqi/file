@@ -1,0 +1,12 @@
+今天晚上20:30-22:30，腾讯课堂内部课，发
+
+SpringCloud Eureka 3台服务器集群环境搭建
+DiscoveryClient服务发现用法
+使用Zookeeper替代Eureka作为注册中心
+Zookeeper与Eureka作为注册中心的区别
+Consul分布式配置中心简介
+使用Consul替代Eureka作为注册中心
+Eureka、Consul、Zookeeper区别
+
+
+
